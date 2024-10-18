@@ -1,0 +1,158 @@
+{
+  "minecraft:plains": {
+    "first_names": [
+      "John", "Sarah", "Tom", "Ella", "James", "Anna", "Ben", "Mia", "Alex", "Lucy",
+      "Liam", "Sophia", "Henry", "Grace", "Jacob", "Emily", "Ethan", "Olivia", "Noah", "Emma",
+      "Jack", "Charlotte", "Samuel", "Amelia", "Logan", "Harper", "Mason", "Isabella", "Oliver", "Lily",
+      "Lucas", "Ava", "William", "Zoe", "Daniel", "Hannah", "Elijah", "Chloe", "Matthew", "Luna",
+      "Nathan", "Ellie", "Sebastian", "Aiden", "Gabriel", "Ruby", "Caleb", "Scarlett", "Joshua", "Sophia",
+      "Owen", "Aria", "Dylan", "Ella", "Luke", "Nora", "Isaac", "Lucy", "Connor", "Grace",
+      "Hunter", "Willow", "Cameron", "Aurora", "Ryan", "Madison", "Aaron", "Elena", "David", "Maya",
+      "Justin", "Samantha", "Brayden", "Layla", "Colton", "Hazel", "Blake", "Riley", "Asher", "Eleanor",
+      "Levi", "Audrey", "Jaxon", "Violet", "Adam", "Stella", "Lincoln", "Penelope", "Andrew", "Mila",
+      "Landon", "Peyton", "Jason", "Natalie", "Christopher", "Adeline", "Evan", "Clara", "Miles", "Vivian"
+    ],
+    "last_names": [
+      "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Martinez", "Lopez",
+      "Taylor", "Anderson", "Thomas", "Jackson", "White", "Harris", "Clark", "Rodriguez", "Lewis", "Walker",
+      "Hall", "Allen", "Young", "King", "Wright", "Hill", "Scott", "Green", "Adams", "Baker",
+      "Gonzalez", "Nelson", "Carter", "Mitchell", "Perez", "Roberts", "Turner", "Phillips", "Campbell", "Parker",
+      "Evans", "Edwards", "Collins", "Stewart", "Sanchez", "Morris", "Rogers", "Reed", "Cook", "Morgan",
+      "Bell", "Murphy", "Bailey", "Rivera", "Cooper", "Richardson", "Cox", "Howard", "Ward", "Torres",
+      "Peterson", "Gray", "Ramirez", "James", "Watson", "Brooks", "Kelly", "Sanders", "Price", "Bennett",
+      "Wood", "Barnes", "Ross", "Henderson", "Coleman", "Jenkins", "Perry", "Powell", "Long", "Patterson",
+      "Hughes", "Flores", "Washington", "Butler", "Simmons", "Foster", "Gonzales", "Bryant", "Alexander", "Russell",
+      "Griffin", "Diaz", "Hayes", "Myers", "Ford", "Hamilton", "Graham", "Sullivan", "Wallace", "Woods"
+    ]
+  },
+  "minecraft:desert": {
+    "first_names": [
+      "Amin", "Zara", "Omar", "Layla", "Tariq", "Samira", "Rashid", "Nadia", "Hassan", "Fatima",
+      "Ali", "Aisha", "Khalid", "Yasmin", "Said", "Mariam", "Salim", "Noura", "Faisal", "Zainab",
+      "Jamal", "Farah", "Ahmed", "Lina", "Mustafa", "Dina", "Ibrahim", "Rania", "Abdullah", "Huda",
+      "Bilal", "Karim", "Amira", "Mahmoud", "Aya", "Yusuf", "Reem", "Adil", "Iman", "Alaa",
+      "Zaid", "Laila", "Walid", "Hana", "Nabil", "Mona", "Tamer", "Sahar", "Othman", "Shadia",
+      "Hadi", "Rasha", "Bashir", "Amani", "Zaki", "Amal", "Majid", "Dana", "Kareem", "Yara",
+      "Anwar", "Nada", "Rami", "Sana", "Kamil", "Jana", "Fahad", "Ibtisam", "Raed", "Heba",
+      "Fadi", "Sanae", "Salma", "Mohammed", "Aziza", "Laith", "Yasmina", "Nasir", "Rawan", "Zayn",
+      "Khadija", "Adnan", "Ismail", "Sabah", "Talib", "Lubna", "Murad", "Rim", "Ilyas", "Sara",
+      "Idris", "Afra", "Qasim", "Abeer", "Firas", "Mounir", "Omar", "Sufyan", "Nizar", "Rida"
+    ],
+    "last_names": [
+      "Haddad", "Darwish", "Hakim", "Assaf", "Nassar", "Fahmy", "Ghanem", "Hassan", "Jabir", "Zidan",
+      "Baz", "Kouri", "Majid", "Salem", "Yasin", "Zuhur", "Mahmoud", "Kader", "Nasr", "Najjar",
+      "Said", "Shakir", "Taha", "Jamal", "Salman", "Sabri", "Khalil", "Idris", "Abboud", "Ghani",
+      "Mousa", "Amir", "Iskander", "Rahim", "Sharif", "Hussein", "Fakhoury", "Zein", "Othman", "Shami",
+      "Fouad", "Karim", "Barakat", "Saad", "Salama", "Hariri", "Sakr", "Hamid", "Zayed", "Halim",
+      "Samara", "Abbas", "Khoury", "Darwish", "Nader", "Rahal", "Khatib", "Taleb", "Sultan", "Faris",
+      "Amin", "Assad", "Fayed", "Bishara", "Abdallah", "Awad", "Haddad", "Tawfiq", "Zaki", "Barakat",
+      "Wahab", "Saadi", "Zaid", "Shaban", "Fahd", "Latif", "Mansour", "Bakr", "Yousef", "Adel",
+      "Khaled", "Abdul", "Shafiq", "Safar", "Ghannam", "Mansoor", "Bayoumi", "Faisal", "Zahir", "Kamel",
+      "Wahid", "Sharif", "Rashid", "Daher", "Samar", "Murad", "Qasim", "Ibrahim", "Nazir", "Sabah"
+    ]
+  },
+  "minecraft:snowy_plains": {
+    "first_names": [
+      "Erik", "Freya", "Bjorn", "Astrid", "Sven", "Ingrid", "Olaf", "Kari", "Leif", "Solveig",
+      "Ragnar", "Tove", "Thor", "Sigrid", "Hakon", "Idun", "Eirik", "Siv", "Magnus", "Hilda",
+      "Stig", "Liv", "Oskar", "Greta", "Anders", "Gunhild", "Torbjorn", "Eira", "Lars", "Maren",
+      "Johan", "Runa", "Stefan", "Signe", "Arvid", "Frida", "Viggo", "Gerd", "Harald", "Embla",
+      "Tore", "Birgit", "Einar", "Solveig", "Olav", "Bodil", "Knut", "Hedvig", "Trygve", "Anja",
+      "Finn", "Sunniva", "Dag", "Hanne", "Gunnar", "Malin", "Sigurd", "Sofia", "Kristian", "Elin",
+      "Vidar", "Elsa", "Roald", "Kirsten", "Tore", "Ebba", "Rune", "Maja", "Asbjorn", "Tuva",
+      "Axel", "Yrsa", "Ivar", "Solveig", "Svein", "Rikke", "Thorsten", "Vera", "Nils", "Siri",
+      "Odin", "Agnes", "Kjell", "Hedda", "Brynjar", "Hanne", "Eskil", "Tiril", "Viktor", "Bente",
+      "Odd", "Jorunn", "Sigmund", "Linnea", "Stein", "Gry", "Helge", "Marta", "Eldar", "Mina"
+    ],
+    "last_names": [
+      "Larsen", "Olsen", "Hansen", "Johansen", "Andersen", "Nilsen", "Pedersen", "Eriksen", "Berg", "Haugen",
+      "Svensson", "Magnussen", "Gustafsson", "Jensen", "Holm", "Mikkelsen", "Rasmussen", "Kristiansen", "Sørensen", "Vik",
+      "Dahl", "Foss", "Hagen", "Myrdal", "Helland", "Aas", "Vinter", "Skar", "Strand", "Bjerke",
+      "Nygaard", "Lunde", "Tveit", "Viking", "Aasen", "Stordalen", "Braathen", "Haavik", "Skov", "Øverland",
+      "Elvik", "Nyborg", "Krog", "Hegge", "Lie", "Eik", "Frøland", "Bakke", "Odegaard", "Stensland",
+      "Holst", "Lindgren", "Gran", "Moller", "Austad", "Kari", "Bjørk", "Sund", "Wangen", "Slette",
+      "Vestre", "Torp", "Breivik", "Nordli", "Frøen", "Elde", "Tangen", "Bråten", "Skeie", "Torgersen",
+      "Eldh", "Hov", "Lind", "Helles", "Bjorn", "Haaland", "Nybo", "Falck", "Ludvigsen", "Engen",
+      "Hermansen", "Frost", "Karlsen", "Wahl", "Solberg", "Amdal", "Mørk", "Thorsen", "Järvi", "Skoglund",
+      "Nordström", "Sivertsen", "Olsson", "By", "Vinter", "Sandvik", "Hallen", "Vestergaard", "Berge", "Øye"
+    ]
+  },
+  "minecraft:taiga": {
+    "first_names": [
+      "Ivan", "Natalia", "Dimitri", "Katya", "Yelena", "Vladimir", "Anastasia", "Mikhail", "Olga", "Sergei",
+      "Yuri", "Tatiana", "Boris", "Irina", "Igor", "Svetlana", "Alexei", "Nina", "Viktor", "Marina",
+      "Nikolai", "Galina", "Oleg", "Ekaterina", "Andrei", "Larisa", "Pavel", "Valentina", "Roman", "Zoya",
+      "Dmitry", "Sasha", "Arkady", "Veronika", "Maxim", "Tamara", "Leonid", "Polina", "Pyotr", "Inessa",
+      "Aleksei", "Lyudmila", "Fyodor", "Nadezhda", "Vasily", "Margarita", "Grigori", "Tanya", "Konstantin", "Vera",
+      "Serafima", "Yaroslav", "Evgenia", "Ruslan", "Kseniya", "Stepan", "Alina", "Valery", "Georgy", "Varvara",
+      "Timur", "Lilia", "Arkadiy", "Anfisa", "Kirill", "Olena", "Zinaida", "Artem", "Nika", "Ilya",
+      "Rostislav", "Nikita", "Lev", "Larisa", "Bogatyr", "Liza", "Radmila", "Fedor", "Rimma", "Gleb",
+      "Yekaterina", "Arina", "Olesya", "Vsevolod", "Zoya", "Grisha", "Alyosha", "Daria", "Mira", "Bogdan",
+      "Elena", "Semyon", "Ksusha", "Aida", "Yulia", "Stanislav", "Raisa", "Misha", "Zinovy", "Olga"
+    ],
+    "last_names": [
+      "Ivanov", "Smirnov", "Kuznetsov", "Popov", "Petrov", "Volkov", "Sokolov", "Mikhailov", "Novikov", "Fedorov",
+      "Morozov", "Vasilyev", "Pavlov", "Semyonov", "Stepanov", "Nikitin", "Karpov", "Antonov", "Romanov", "Andreev",
+      "Vlasov", "Zaitsev", "Kozlov", "Shevchenko", "Lebedev", "Sergeev", "Gusev", "Vasilyev", "Yakovlev", "Zhukov",
+      "Borisov", "Tarasov", "Melnikov", "Davydov", "Shapovalov", "Vinogradov", "Grigoriev", "Medvedev", "Solovyov", "Ershov",
+      "Bykov", "Varlamov", "Yashin", "Belyaev", "Danilov", "Abramov", "Zhuravlev", "Golubev", "Drozdov", "Samsonov",
+      "Sokolovsky", "Bogdanov", "Sorokin", "Trofimov", "Fomin", "Ponomarev", "Kudryavtsev", "Lavrov", "Shcherbakov", "Baburin",
+      "Savelyev", "Tikhonov", "Ryabov", "Anisimov", "Nikolaev", "Prokhorov", "Kovalev", "Krylov", "Polyakov", "Matveev",
+      "Alekseev", "Yermakov", "Panov", "Aksyonov", "Efimov", "Rozhkov", "Belyakov", "Glebov", "Tsyganov", "Voronin",
+      "Zharkov", "Shishkin", "Kazakov", "Yefremov", "Yudin", "Afanasev", "Kuzmin", "Shustov", "Dementiev", "Timofeyev",
+      "Lobanov", "Tsvetkov", "Shulgin", "Maslov", "Nabokov", "Golovkin", "Cherepanov", "Petrenko", "Yarygin", "Rodionov"
+    ]
+  },
+  "minecraft:savanna": {
+    "first_names": [
+      "Kwame", "Amina", "Kofi", "Zuri", "Jabari", "Nia", "Kwesi", "Sade", "Obi", "Kesi",
+      "Tariq", "Fatou", "Jamal", "Ayana", "Dakarai", "Zara", "Duma", "Tala", "Kamau", "Imani",
+      "Bakari", "Zola", "Omari", "Nyah", "Mosi", "Amara", "Hassan", "Marjani", "Ayo", "Bintou",
+      "Jengo", "Kioni", "Ebo", "Siti", "Kato", "Amari", "Sefu", "Adia", "Mandisa", "Femi",
+      "Mwangi", "Sika", "Kofi", "Zuwena", "Sekou", "Tisha", "Said", "Nandi", "Elimu", "Winda",
+      "Idrissa", "Chiamaka", "Khamisi", "Kamaria", "Eshe", "Zuberi", "Faraji", "Taji", "Kwasi", "Jina",
+      "Obasi", "Hasina", "Penda", "Abena", "Jahi", "Sanaa", "Mirembe", "Azizi", "Jendayi", "Ngozi",
+      "Masika", "Hadiya", "Okello", "Asha", "Kwani", "Nia", "Chipo", "Mandela", "Nuru", "Kesi",
+      "Mojuba", "Shani", "Ifama", "Chinara", "Abeni", "Zina", "Zawadi", "Hawa", "Mwana", "Ndidi",
+      "Obina", "Emani", "Sanura", "Halima", "Tinashe", "Mara", "Fumo", "Chikondi", "Idris", "Thandi"
+    ],
+    "last_names": [
+      "Adebayo", "Balogun", "Abdullah", "Okoye", "Ayodele", "Njenga", "Odinga", "Kariuki", "Kimani", "Kagiso",
+      "Thwala", "Malik", "Mwangi", "Chilufya", "Onyango", "Mutiso", "Adu", "Mabaso", "Ndubisi", "Tshabalala",
+      "Obi", "Ngugi", "Fahad", "Wanjiku", "Kamau", "Zuma", "Amadi", "Lukwago", "Banda", "Nkosi",
+      "Hadebe", "Nyong'o", "Mbatha", "Sambo", "Mandela", "Ochieng", "Babajide", "Toure", "Aboah", "Okafor",
+      "Esang", "Maseko", "Okonkwo", "Siyabonga", "Oluwaseyi", "Ncube", "Gumbo", "Katlego", "Ndiaye", "Mbokazi",
+      "Zola", "Ouma", "Mofokeng", "Chuma", "Sithole", "Ekene", "Mwanza", "Biko", "Dlamini", "Nwosu",
+      "Emeka", "Kambule", "Jaja", "Afolabi", "Omotayo", "Chinyere", "Mashaba", "Adisa", "Onuoha", "Njeri",
+      "Osei", "Sambo", "Femi", "Zondi", "Mugabe", "Yakubu", "Njenga", "Tutu", "Ndaba", "Biko",
+      "Olumide", "Moyo", "Sande", "Maponya", "Bongani", "Achieng", "Kwabena", "Adanna", "Fela", "Odum",
+      "Sefu", "Kalua", "Langa", "Orji", "Ndlovu", "Eshe", "Thabo", "Mutombo", "Abiodun", "Tembo"
+    ]
+  },
+  "minecraft:meadow": {
+    "first_names": [
+      "Daisy", "Poppy", "Jasper", "Violet", "Lily", "Rowan", "Clover", "Fern", "Ivy", "Willow",
+      "Hazel", "Briar", "Aspen", "Holly", "Dahlia", "Ash", "Maple", "Blossom", "Cedar", "Olive",
+      "Laurel", "Juniper", "Rosie", "Birch", "Fox", "Acacia", "Flora", "Elm", "Lavender", "Pine",
+      "Cora", "Hawthorn", "Brook", "Alder", "Heath", "River", "Marigold", "Basil", "Linden", "Rose",
+      "Sorrel", "Wren", "Thyme", "Sage", "Thistle", "Primrose", "Evergreen", "Grove", "Elmira", "Azalea",
+      "Reed", "Petal", "Meadow", "Saffron", "Elmwood", "Sunny", "Wisteria", "Huckleberry", "Fawn", "Buttercup",
+      "Magnolia", "Hemlock", "Spruce", "Aster", "Elmira", "Yarrow", "Aloe", "Glade", "Moss", "Forest",
+      "Cypress", "Beech", "Bramble", "Teal", "Sorrell", "Heather", "Sunny", "Foxglove", "Leaf", "Goldenrod",
+      "Fawn", "Blossom", "Glen", "Windy", "Evergreen", "Aspen", "Rowan", "Pine", "Spring", "Maple",
+      "Coral", "Ember", "Brook", "Autumn", "Spring", "Sylvan", "Fern", "Hazel", "Birch", "Lichen"
+    ],
+    "last_names": [
+      "Wildflower", "Briar", "Thorn", "Fernwood", "Greenleaf", "Rivers", "Meadows", "Wood", "Oak", "Alderwood",
+      "Windflower", "Stone", "Goldenbough", "Maplewood", "Brook", "Forest", "Hill", "Hawke", "Moss", "Aspenwood",
+      "Brightwood", "Frost", "Cedarwood", "Cloverfield", "Spring", "Wilds", "Bramble", "Pine", "Ashenvale", "Heath",
+      "Briarwood", "Willow", "Cedar", "Birch", "Blossom", "Riversong", "Thicket", "Woodland", "Greenwood", "Valley",
+      "Everwood", "Meadowbrook", "Ash", "Glade", "Sagebrush", "Foxglove", "Sylvan", "Haven", "Mossfield", "Pinegrove",
+      "Willowbrook", "Ridge", "Sky", "Meadowlark", "Bramblewood", "Dew", "Summerfield", "Hollow", "Leaf", "Greenbriar",
+      "Holloway", "Fieldstone", "Riverbank", "Thornfield", "Silverwood", "Evergreen", "Brookstone", "Hillcrest", "Thistlewood", "Springfield",
+      "Autumnwood", "Emberwood", "Birchwood", "Mountain", "Valebrook", "Foxfield", "Elmsong", "Starwood", "Lakeshore", "Rosewood",
+      "Pinehurst", "Wildwood", "Snowdrop", "Yew", "Foxglade", "Frostwood", "Oakwood", "Sunfield", "Summerbreeze", "Stonebrook",
+      "Cedarstone", "Fernshade", "Leafwood", "Oakfield", "Springsong", "Hillgrove", "Dewhurst", "Ravenwood", "Woodland", "Glenshadow"
+    ]
+  }
+}

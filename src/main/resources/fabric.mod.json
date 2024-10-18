@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "wills-lively-villages",
+	"version": "${version}",
+	"name": "Will's Lively Villages",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Will Poulson"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/wills-lively-villages/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"uk.co.willpoulson.willslivelyvillages.WillsLivelyVillages"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
