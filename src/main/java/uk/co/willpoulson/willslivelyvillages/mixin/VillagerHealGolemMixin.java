@@ -19,8 +19,13 @@ import java.util.List;
 @Mixin(VillagerEntity.class)
 public class VillagerHealGolemMixin {
 
+    @Unique
     private long lastHealTime = 0;
+
+    @Unique
     private static final int HEAL_COOLDOWN_TICKS = 6000;
+
+    @Unique
     private IronGolemEntity targetGolem = null;
 
     @Inject(method = "tick", at = @At("HEAD"))
@@ -33,7 +38,7 @@ public class VillagerHealGolemMixin {
             return;
         }
 
-        if (villager.isBaby() || villager.isSleeping()) {
+        if (villager.isBaby() || world.isNight()) {
             return;
         }
 

@@ -10,7 +10,33 @@
       "Hunter", "Willow", "Cameron", "Aurora", "Ryan", "Madison", "Aaron", "Elena", "David", "Maya",
       "Justin", "Samantha", "Brayden", "Layla", "Colton", "Hazel", "Blake", "Riley", "Asher", "Eleanor",
       "Levi", "Audrey", "Jaxon", "Violet", "Adam", "Stella", "Lincoln", "Penelope", "Andrew", "Mila",
-      "Landon", "Peyton", "Jason", "Natalie", "Christopher", "Adeline", "Evan", "Clara", "Miles", "Vivian"
+      "Landon", "Peyton", "Jason", "Natalie", "Christopher", "Adeline", "Evan", "Clara", "Miles", "Vivian",
+      "Jameson", "Beatrice", "Harrison", "Emily", "Julian", "Margaret", "Anthony", "Mackenzie", "Charlie", "Vera",
+      "Thomas", "Evelyn", "Nolan", "Hazel", "Carter", "Melody", "Eli", "Madeline", "Xavier", "Genevieve",
+      "Elliot", "Isabel", "Tristan", "Victoria", "Parker", "Alice", "Theo", "Emilia", "Hudson", "Camila",
+      "Everett", "Rose", "Declan", "Sienna", "Carson", "Lila", "Elias", "Arabella", "Jude", "Adelaide",
+      "Finn", "Phoebe", "Sawyer", "Vivienne", "Weston", "Lilly", "Grayson", "Mabel", "Zachary", "Aurora",
+      "Archer", "Daphne", "Easton", "Ophelia", "Ryder", "June", "Beckett", "Thea", "Jonah", "Willa",
+      "Graham", "Athena", "Roman", "Eloise", "Silas", "Clementine", "Tobias", "Fiona", "Emerson", "Pearl",
+      "Axel", "Seraphina", "Hugo", "Lucille", "Kai", "Isla", "Jasper", "Annalise", "Malachi", "Genevieve",
+      "Enzo", "Margo", "Theo", "Eliza", "Orion", "Mae", "Maxwell", "Ivy", "Griffin", "Aurelia",
+      "Knox", "Matilda", "Luca", "Colette", "Zane", "Lavinia", "Atlas", "Estelle", "Soren", "Iris",
+      "Cruz", "Nina", "Flynn", "Violet", "Zion", "Sylvie", "Finnley", "Cosette", "Levi", "Lorelei",
+      "Bodhi", "Maisie", "Callum", "Francesca", "Rhys", "Cordelia", "Beau", "Helena", "Phoenix", "Felicity",
+      "Sage", "Anya", "Milo", "Adeline", "Nico", "Juliet", "Rhett", "Dahlia", "Blaze", "Zara",
+      "Nash", "Selene", "Kian", "Astrid", "Maddox", "Mirabelle", "Tate", "Isadora", "Lennon", "Cressida",
+      "Ranger", "Marigold", "Hendrix", "Evangeline", "Crew", "Cleo", "Boone", "Tatiana", "Drake", "Flora",
+      "Dash", "Magnolia", "Reed", "Delphine", "Zephyr", "Odette", "Pax", "Juno", "Gunner", "Celeste",
+      "Legend", "Thalia", "Sterling", "Giselle", "Apollo", "Faye", "Valor", "Linnea", "Diesel", "Beatrix",
+      "Ash", "Greer", "Fox", "Carys", "Knight", "Wren", "Stone", "Blythe", "Dane", "Serena",
+      "Rogue", "Blair", "Cash", "Lark", "Wolf", "Esme", "Jett", "Romy", "Talon", "Noelle",
+      "Duke", "Arwen", "Jax", "Marina", "Blaze", "Sloane", "Blade", "Lilith", "Arrow", "Keira",
+      "Finnick", "Salem", "Knight", "Thorne", "Lyric", "Raven", "Axel", "Ayla", "Phoenix", "Nova",
+      "Vance", "Opal", "Ryder", "Daphne", "Lennox", "Astrid", "Cairo", "Zara", "Ace", "Fiona",
+      "Maverick", "Fleur", "Saber", "Odessa", "Slade", "Elowen", "Draven", "Maeve", "Jagger", "Ivy",
+      "Gage", "Amara", "Zeke", "Seraphina", "Hawk", "Arabella", "Onyx", "Rosalie", "Bishop", "Clover",
+      "Ransom", "Vivienne", "Finnian", "Eleanor", "Jude", "Ophelia", "Knight", "Adelaide", "Ridge", "Thea",
+      "Cruz", "Evangeline", "Rome", "Anastasia", "Gunnar", "Cordelia", "Zephyr", "Delilah", "Phoenix", "Cassandra"
     ],
     "last_names": [
       "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Martinez", "Lopez",
@@ -22,7 +48,20 @@
       "Peterson", "Gray", "Ramirez", "James", "Watson", "Brooks", "Kelly", "Sanders", "Price", "Bennett",
       "Wood", "Barnes", "Ross", "Henderson", "Coleman", "Jenkins", "Perry", "Powell", "Long", "Patterson",
       "Hughes", "Flores", "Washington", "Butler", "Simmons", "Foster", "Gonzales", "Bryant", "Alexander", "Russell",
-      "Griffin", "Diaz", "Hayes", "Myers", "Ford", "Hamilton", "Graham", "Sullivan", "Wallace", "Woods"
+      "Griffin", "Diaz", "Hayes", "Myers", "Ford", "Hamilton", "Graham", "Sullivan", "Wallace", "Woods",
+      "Chavez", "Wheeler", "Morrison", "Hamilton", "Moreno", "Harrison", "Simmons", "Harper", "Weaver", "Kim",
+      "Jordan", "Bradley", "Mason", "Lawrence", "Spencer", "Austin", "Reid", "Lawson", "Dean", "Knight",
+      "Hudson", "Hanson", "Russell", "Burns", "Castillo", "Armstrong", "Ramos", "Santiago", "Caldwell", "Ellis",
+      "Freeman", "Schmidt", "Carr", "Shaw", "Frazier", "Bryan", "Thornton", "Montgomery", "Wallace", "Armstrong",
+      "Sanders", "Morales", "Collins", "Richards", "Watkins", "Newton", "Gibson", "Fletcher", "Hale", "Conner",
+      "Norris", "Black", "Fisher", "Jefferson", "Gordon", "Farrell", "Andrews", "Hughes", "Hunt", "Murray",
+      "Robinson", "Weber", "Murray", "Johnston", "Guzman", "Franklin", "Erickson", "Brady", "Neal", "Park",
+      "Reynolds", "Spencer", "Warner", "Summers", "Parsons", "Boone", "Fleming", "McCormick", "Decker", "Wells",
+      "Barber", "Daniels", "Greene", "Griffith", "Stanley", "Perkins", "Holt", "Maxwell", "Daniels", "Manning",
+      "Clarke", "Holmes", "Arnold", "Mathis", "Estrada", "Rose", "Robbins", "George", "Hopkins", "Moran",
+      "Lowe", "Daniel", "Valdez", "Clayton", "Blake", "Tucker", "Ramsey", "Sweeney", "Wyatt", "Lindsey",
+      "Gates", "Schneider", "Craig", "Shelton", "Bennett", "Porter", "Stokes", "Vaughn", "Baker", "Baldwin",
+      "Casey", "Hardy", "Bass", "Massey", "Kirby", "Gilbert", "Cross", "Poole", "Simon", "Sparks"
     ]
   },
   "minecraft:desert": {
@@ -36,7 +75,18 @@
       "Anwar", "Nada", "Rami", "Sana", "Kamil", "Jana", "Fahad", "Ibtisam", "Raed", "Heba",
       "Fadi", "Sanae", "Salma", "Mohammed", "Aziza", "Laith", "Yasmina", "Nasir", "Rawan", "Zayn",
       "Khadija", "Adnan", "Ismail", "Sabah", "Talib", "Lubna", "Murad", "Rim", "Ilyas", "Sara",
-      "Idris", "Afra", "Qasim", "Abeer", "Firas", "Mounir", "Omar", "Sufyan", "Nizar", "Rida"
+      "Idris", "Afra", "Qasim", "Abeer", "Firas", "Mounir", "Omar", "Sufyan", "Nizar", "Rida",
+      "Yousef", "Hiba", "Samir", "Maya", "Dalia", "Reyad", "Tamara", "Karima", "Basem", "Omar",
+      "Nasim", "Halim", "Yasmeen", "Munir", "Ashraf", "Sahar", "Nashwa", "Tariq", "Wael", "Walaa",
+      "Fayez", "Rania", "Amira", "Maher", "Safiya", "Zahra", "Ihsan", "Rania", "Tamer", "Abir",
+      "Malek", "Samir", "Layal", "Mahir", "Dana", "Marwan", "Amr", "Hana", "Hussein", "Kareem",
+      "Anas", "Nada", "Farid", "Shirin", "Majdi", "Arwa", "Taher", "Amjad", "Ranya", "Hayat",
+      "Zaher", "Ghada", "Basim", "Wafaa", "Tarek", "Nadine", "Fawzi", "Lina", "Amal", "Hussein",
+      "Mamdouh", "Faten", "Farid", "Shadi", "Jawad", "Mahira", "Zahira", "Rafik", "Latifa", "Madiha",
+      "Ayman", "Lamia", "Gamal", "Manal", "Rima", "Adel", "Sumaya", "Yassin", "Tawfiq", "Inas",
+      "Ziad", "Asma", "Kassem", "Najla", "Mufid", "Rabab", "Bashar", "Eman", "Zayna", "Taha",
+      "Nour", "Mohamad", "Amani", "Nashit", "Samah", "Dina", "Ghassan", "Mays", "Faiz", "Salwa",
+      "Munira", "Rabee", "Fadi", "Mariam", "Radwan", "Rasha", "Baraa", "Khalifa", "Ibtihal", "Hazem"
     ],
     "last_names": [
       "Haddad", "Darwish", "Hakim", "Assaf", "Nassar", "Fahmy", "Ghanem", "Hassan", "Jabir", "Zidan",
@@ -48,7 +98,17 @@
       "Amin", "Assad", "Fayed", "Bishara", "Abdallah", "Awad", "Haddad", "Tawfiq", "Zaki", "Barakat",
       "Wahab", "Saadi", "Zaid", "Shaban", "Fahd", "Latif", "Mansour", "Bakr", "Yousef", "Adel",
       "Khaled", "Abdul", "Shafiq", "Safar", "Ghannam", "Mansoor", "Bayoumi", "Faisal", "Zahir", "Kamel",
-      "Wahid", "Sharif", "Rashid", "Daher", "Samar", "Murad", "Qasim", "Ibrahim", "Nazir", "Sabah"
+      "Wahid", "Sharif", "Rashid", "Daher", "Samar", "Murad", "Qasim", "Ibrahim", "Nazir", "Sabah",
+      "Amr", "Ramzi", "Mounir", "Abdel", "Amin", "Ziyad", "Hammad", "Abu", "Shaban", "Aziz",
+      "Abdelrahman", "Ghazi", "Zaidan", "Fadel", "Barghouti", "Boulos", "Zaher", "Assaf", "Mahdi", "Salha",
+      "Dahlan", "Khalidi", "Alami", "Fahim", "Masri", "Azar", "Hannoush", "Rafidi", "Taleb", "Bahjat",
+      "Najdi", "Saba", "Tawil", "Rabah", "Haddad", "Ghanim", "Farah", "Aly", "Suleiman", "Qandil",
+      "Samir", "Jabara", "Salim", "Assi", "Suleiman", "Fahmi", "Hamdy", "Ghazali", "Najjar", "Barhoum",
+      "Qassem", "Salloum", "Fayad", "Gharib", "Khalife", "Qandil", "Saab", "Dagher", "Said", "Zubaidi",
+      "Alwan", "Omar", "Wakim", "Atiyeh", "Saadeh", "Asfour", "Agha", "Zuhur", "Khayat", "Bashir",
+      "Rashed", "Tawfik", "Kassir", "Yousef", "Hasan", "Amr", "Amari", "Hashem", "Shaheen", "Halaby",
+      "Awadallah", "Saidi", "Badran", "Zidan", "Mahfouz", "Hajjar", "Bashara", "Khoury", "Mansour", "Khatib",
+      "Naji", "Nimer", "Tabet", "Awad", "Askar", "Qaddoura", "Karam", "Rashad", "Jallad", "Abbas"
     ]
   },
   "minecraft:snowy_plains": {
@@ -62,7 +122,16 @@
       "Vidar", "Elsa", "Roald", "Kirsten", "Tore", "Ebba", "Rune", "Maja", "Asbjorn", "Tuva",
       "Axel", "Yrsa", "Ivar", "Solveig", "Svein", "Rikke", "Thorsten", "Vera", "Nils", "Siri",
       "Odin", "Agnes", "Kjell", "Hedda", "Brynjar", "Hanne", "Eskil", "Tiril", "Viktor", "Bente",
-      "Odd", "Jorunn", "Sigmund", "Linnea", "Stein", "Gry", "Helge", "Marta", "Eldar", "Mina"
+      "Odd", "Jorunn", "Sigmund", "Linnea", "Stein", "Gry", "Helge", "Marta", "Eldar", "Mina",
+      "Åsa", "Helga", "Runar", "Ove", "Tord", "Ellinor", "Truls", "Torhild", "Håvard", "Siri",
+      "Oystein", "Birgit", "Thorleif", "Sindre", "Åge", "Elise", "Stian", "Trym", "Magnhild", "Oddvar",
+      "Gisle", "Hege", "Morten", "Ragnhild", "Sverre", "Jorunn", "Tormod", "Heidi", "Arne", "Åse",
+      "Rune", "Maren", "Trond", "Lene", "Halvard", "Hanne", "Nils", "Dagny", "Espen", "Guri",
+      "Eivind", "Ragnvald", "Frode", "Anette", "Snorre", "Tove", "Arnfinn", "Sølvi", "Henning", "Kirsti",
+      "Anders", "Åsmund", "Bjørg", "Oddrun", "Erling", "Audhild", "Magne", "Eli", "Geir", "Ågot",
+      "Ottar", "Toralf", "Jorid", "Ragnfrid", "Leif", "Elna", "Jørgen", "Ingegerd", "Torstein", "Sigfrid",
+      "Svein", "Liv", "Harald", "Rønnaug", "Oddbjørn", "Sissel", "Terje", "Åse", "Kjartan", "Olina",
+      "Lars", "Rasmus", "Svanhild", "Dagfinn", "Steinar", "Tanja", "Thorvald", "Turid", "Olaf", "Jostein"
     ],
     "last_names": [
       "Larsen", "Olsen", "Hansen", "Johansen", "Andersen", "Nilsen", "Pedersen", "Eriksen", "Berg", "Haugen",
@@ -74,7 +143,17 @@
       "Vestre", "Torp", "Breivik", "Nordli", "Frøen", "Elde", "Tangen", "Bråten", "Skeie", "Torgersen",
       "Eldh", "Hov", "Lind", "Helles", "Bjorn", "Haaland", "Nybo", "Falck", "Ludvigsen", "Engen",
       "Hermansen", "Frost", "Karlsen", "Wahl", "Solberg", "Amdal", "Mørk", "Thorsen", "Järvi", "Skoglund",
-      "Nordström", "Sivertsen", "Olsson", "By", "Vinter", "Sandvik", "Hallen", "Vestergaard", "Berge", "Øye"
+      "Nordström", "Sivertsen", "Olsson", "By", "Vinter", "Sandvik", "Hallen", "Vestergaard", "Berge", "Øye",
+      "Bø", "Ellingsen", "Løkke", "Hagen", "Lindholm", "Fagerli", "Kvernland", "Rønning", "Strandberg", "Fossum",
+      "Gjertsen", "Aune", "Tveiten", "Kleveland", "Kjær", "Heggen", "Brevik", "Borg", "Blom", "Nybakk",
+      "Brevik", "Nordal", "Lindahl", "Rosen", "Nordberg", "Løken", "Fossland", "Gustavsen", "Grønning", "Iversen",
+      "Birk", "Bergli", "Nordheim", "Skovly", "Holand", "Ringstad", "Garnes", "Kjølstad", "Løkken", "Skogland",
+      "Svendsen", "Isaksen", "Nes", "Røed", "Thorstensen", "Reinhardt", "Wik", "Fuglestad", "Nordli", "Sollie",
+      "Brenden", "Granheim", "Berggren", "Skoglund", "Hedberg", "Røine", "Leirvik", "Bjørnstad", "Sandø", "Bakken",
+      "Ulven", "Mikkelsen", "Løseth", "Lein", "Holen", "Kaspersen", "Møller", "Rønningen", "Skare", "Bratland",
+      "Tangen", "Furseth", "Raaen", "Torset", "Ramberg", "Sæther", "Dybvik", "Øvrebø", "Solli", "Henden",
+      "Hovland", "Skarpnes", "Grønli", "Slaaen", "Haga", "Brandal", "Reitan", "Sæbø", "Ulstad", "Espeland",
+      "Frøya", "Breidablik", "Molnes", "Åsheim", "Thomassen", "Sandvik", "Ludvig", "Solbakken", "Bjelland", "Hustad"
     ]
   },
   "minecraft:taiga": {
@@ -88,7 +167,15 @@
       "Timur", "Lilia", "Arkadiy", "Anfisa", "Kirill", "Olena", "Zinaida", "Artem", "Nika", "Ilya",
       "Rostislav", "Nikita", "Lev", "Larisa", "Bogatyr", "Liza", "Radmila", "Fedor", "Rimma", "Gleb",
       "Yekaterina", "Arina", "Olesya", "Vsevolod", "Zoya", "Grisha", "Alyosha", "Daria", "Mira", "Bogdan",
-      "Elena", "Semyon", "Ksusha", "Aida", "Yulia", "Stanislav", "Raisa", "Misha", "Zinovy", "Olga"
+      "Elena", "Semyon", "Ksusha", "Aida", "Yulia", "Stanislav", "Raisa", "Misha", "Zinovy", "Olga",
+      "Arkady", "Raisa", "Vitaly", "Zoya", "Valery", "Viktor", "Larisa", "Alyona", "Efim", "Inna",
+      "Lev", "Ksenia", "Rostislav", "Milana", "Oleg", "Valentina", "Fyodor", "Lyudmila", "Vadim", "Anfisa",
+      "Nikita", "Zhanna", "Stepan", "Rimma", "Pavel", "Dina", "Timur", "Lina", "Anatoly", "Marina",
+      "Andrey", "Margarita", "Bogdan", "Arina", "Vladimir", "Yana", "Oleg", "Kseniya", "Roman", "Veronika",
+      "Sergei", "Dina", "Egor", "Natalia", "Igor", "Svetlana", "Alexandr", "Elizaveta", "Maksim", "Polina",
+      "Ilya", "Kira", "Vladimir", "Sofia", "Arkadiy", "Kristina", "Dmitriy", "Anna", "Pyotr", "Zinaida",
+      "Denis", "Sofiya", "Fedor", "Tatiana", "Anton", "Vera", "Nikolay", "Daria", "Sergey", "Yulia",
+      "Alexey", "Elena", "Vasiliy", "Kseniya", "Boris", "Anastasia", "Artem", "Olesya", "Georgiy", "Lidiya"
     ],
     "last_names": [
       "Ivanov", "Smirnov", "Kuznetsov", "Popov", "Petrov", "Volkov", "Sokolov", "Mikhailov", "Novikov", "Fedorov",
@@ -100,33 +187,15 @@
       "Savelyev", "Tikhonov", "Ryabov", "Anisimov", "Nikolaev", "Prokhorov", "Kovalev", "Krylov", "Polyakov", "Matveev",
       "Alekseev", "Yermakov", "Panov", "Aksyonov", "Efimov", "Rozhkov", "Belyakov", "Glebov", "Tsyganov", "Voronin",
       "Zharkov", "Shishkin", "Kazakov", "Yefremov", "Yudin", "Afanasev", "Kuzmin", "Shustov", "Dementiev", "Timofeyev",
-      "Lobanov", "Tsvetkov", "Shulgin", "Maslov", "Nabokov", "Golovkin", "Cherepanov", "Petrenko", "Yarygin", "Rodionov"
-    ]
-  },
-  "minecraft:savanna": {
-    "first_names": [
-      "Kwame", "Amina", "Kofi", "Zuri", "Jabari", "Nia", "Kwesi", "Sade", "Obi", "Kesi",
-      "Tariq", "Fatou", "Jamal", "Ayana", "Dakarai", "Zara", "Duma", "Tala", "Kamau", "Imani",
-      "Bakari", "Zola", "Omari", "Nyah", "Mosi", "Amara", "Hassan", "Marjani", "Ayo", "Bintou",
-      "Jengo", "Kioni", "Ebo", "Siti", "Kato", "Amari", "Sefu", "Adia", "Mandisa", "Femi",
-      "Mwangi", "Sika", "Kofi", "Zuwena", "Sekou", "Tisha", "Said", "Nandi", "Elimu", "Winda",
-      "Idrissa", "Chiamaka", "Khamisi", "Kamaria", "Eshe", "Zuberi", "Faraji", "Taji", "Kwasi", "Jina",
-      "Obasi", "Hasina", "Penda", "Abena", "Jahi", "Sanaa", "Mirembe", "Azizi", "Jendayi", "Ngozi",
-      "Masika", "Hadiya", "Okello", "Asha", "Kwani", "Nia", "Chipo", "Mandela", "Nuru", "Kesi",
-      "Mojuba", "Shani", "Ifama", "Chinara", "Abeni", "Zina", "Zawadi", "Hawa", "Mwana", "Ndidi",
-      "Obina", "Emani", "Sanura", "Halima", "Tinashe", "Mara", "Fumo", "Chikondi", "Idris", "Thandi"
-    ],
-    "last_names": [
-      "Adebayo", "Balogun", "Abdullah", "Okoye", "Ayodele", "Njenga", "Odinga", "Kariuki", "Kimani", "Kagiso",
-      "Thwala", "Malik", "Mwangi", "Chilufya", "Onyango", "Mutiso", "Adu", "Mabaso", "Ndubisi", "Tshabalala",
-      "Obi", "Ngugi", "Fahad", "Wanjiku", "Kamau", "Zuma", "Amadi", "Lukwago", "Banda", "Nkosi",
-      "Hadebe", "Nyong'o", "Mbatha", "Sambo", "Mandela", "Ochieng", "Babajide", "Toure", "Aboah", "Okafor",
-      "Esang", "Maseko", "Okonkwo", "Siyabonga", "Oluwaseyi", "Ncube", "Gumbo", "Katlego", "Ndiaye", "Mbokazi",
-      "Zola", "Ouma", "Mofokeng", "Chuma", "Sithole", "Ekene", "Mwanza", "Biko", "Dlamini", "Nwosu",
-      "Emeka", "Kambule", "Jaja", "Afolabi", "Omotayo", "Chinyere", "Mashaba", "Adisa", "Onuoha", "Njeri",
-      "Osei", "Sambo", "Femi", "Zondi", "Mugabe", "Yakubu", "Njenga", "Tutu", "Ndaba", "Biko",
-      "Olumide", "Moyo", "Sande", "Maponya", "Bongani", "Achieng", "Kwabena", "Adanna", "Fela", "Odum",
-      "Sefu", "Kalua", "Langa", "Orji", "Ndlovu", "Eshe", "Thabo", "Mutombo", "Abiodun", "Tembo"
+      "Lobanov", "Tsvetkov", "Shulgin", "Maslov", "Nabokov", "Golovkin", "Cherepanov", "Petrenko", "Yarygin", "Rodionov",
+      "Sorokin", "Voronov", "Suvorov", "Makarov", "Kiselev", "Kharitonov", "Markov", "Gromov", "Shestakov", "Baryshnikov",
+      "Isayev", "Zimin", "Panfilov", "Rogov", "Tsvetkov", "Vorobyov", "Yakimenko", "Stepanovich", "Verkhovsky", "Korolyov",
+      "Loginov", "Martynov", "Drobyshev", "Frolov", "Shcherbinin", "Nosov", "Svyatoslavov", "Mironov", "Fedorchenko", "Ignatyev",
+      "Romanovich", "Akimov", "Levitsky", "Skvortsov", "Sysoev", "Zherdev", "Podolsky", "Ermakov", "Gogolev", "Biryukov",
+      "Lapin", "Petrenko", "Rumyantsev", "Yarmolenko", "Malyshev", "Glazunov", "Nazarov", "Anokhin", "Larin", "Lyapin",
+      "Prokofiev", "Chistyakov", "Timchenko", "Koval", "Ryzhov", "Sveshnikov", "Bulavin", "Gorelov", "Snegirev", "Kharlamov",
+      "Bespalov", "Senchukov", "Zaytsev", "Kalyagin", "Moroz", "Vladimirov", "Viktorov", "Ignatenko", "Shulman", "Shapoval",
+      "Vlasov", "Taratuta", "Blinov", "Kravchenko", "Pyatkov", "Belyayev", "Maksimenko", "Dronov", "Nazarov", "Rogozin"
     ]
   },
   "minecraft:meadow": {
@@ -140,7 +209,13 @@
       "Magnolia", "Hemlock", "Spruce", "Aster", "Elmira", "Yarrow", "Aloe", "Glade", "Moss", "Forest",
       "Cypress", "Beech", "Bramble", "Teal", "Sorrell", "Heather", "Sunny", "Foxglove", "Leaf", "Goldenrod",
       "Fawn", "Blossom", "Glen", "Windy", "Evergreen", "Aspen", "Rowan", "Pine", "Spring", "Maple",
-      "Coral", "Ember", "Brook", "Autumn", "Spring", "Sylvan", "Fern", "Hazel", "Birch", "Lichen"
+      "Coral", "Ember", "Brook", "Autumn", "Spring", "Sylvan", "Fern", "Hazel", "Birch", "Lichen",
+      "Sequoia", "Meadowlark", "Lark", "Thorn", "Cedar", "Thyme", "Poppy", "Meadow", "Bay", "Sierra",
+      "Primrose", "Juniper", "River", "Basil", "Petunia", "Fox", "Sage", "Bluebell", "Meadow", "Willow",
+      "Hazel", "Birch", "Rowan", "Ivy", "Oak", "Holly", "Maple", "Aspen", "Yew", "Spruce",
+      "Myrtle", "Larch", "Willow", "Olive", "Ash", "Hawthorn", "Beech", "Elm", "Ivy", "Linden",
+      "Foxglove", "Fern", "Clover", "Cypress", "Sycamore", "Laurel", "Reed", "Mulberry", "Oak", "Wren",
+      "Violet", "Dahlia", "Lily", "Pine", "Daisy", "Spruce", "Aspen", "Ivy", "Thistle", "Lavender"
     ],
     "last_names": [
       "Wildflower", "Briar", "Thorn", "Fernwood", "Greenleaf", "Rivers", "Meadows", "Wood", "Oak", "Alderwood",
@@ -152,7 +227,46 @@
       "Holloway", "Fieldstone", "Riverbank", "Thornfield", "Silverwood", "Evergreen", "Brookstone", "Hillcrest", "Thistlewood", "Springfield",
       "Autumnwood", "Emberwood", "Birchwood", "Mountain", "Valebrook", "Foxfield", "Elmsong", "Starwood", "Lakeshore", "Rosewood",
       "Pinehurst", "Wildwood", "Snowdrop", "Yew", "Foxglade", "Frostwood", "Oakwood", "Sunfield", "Summerbreeze", "Stonebrook",
-      "Cedarstone", "Fernshade", "Leafwood", "Oakfield", "Springsong", "Hillgrove", "Dewhurst", "Ravenwood", "Woodland", "Glenshadow"
+      "Cedarstone", "Fernshade", "Leafwood", "Oakfield", "Springsong", "Hillgrove", "Dewhurst", "Ravenwood", "Woodland", "Glenshadow",
+      "Brookhaven", "Goldenwood", "Mossgrove", "Hollyfield", "Briarrose", "Leafridge", "Foxfield", "Thornhill", "Thistledown", "Clearwater",
+      "Fernshade", "Willowsong", "Elmhurst", "Bramblesong", "Oakgrove", "Heatherfield", "Greenhill", "Dewdrop", "Rosehill", "Maplegrove",
+      "Rivergrove", "Ashfield", "Pinecrest", "Cedarwood", "Hazelgrove", "Foxgrove", "Birchfield", "Sagegrove", "Thornfield", "Hillgrove",
+      "Woodcrest", "Maplecrest", "Riverhill", "Sprucegrove", "Hollyfield", "Cedarcrest", "Fernhill", "Meadowhill", "Thornbrook", "Rosefield"
+    ]
+  },
+  "minecraft:savanna": {
+    "first_names": [
+      "Kwame", "Amina", "Kofi", "Zuri", "Jabari", "Nia", "Kwesi", "Sade", "Obi", "Kesi",
+      "Tariq", "Fatou", "Jamal", "Ayana", "Dakarai", "Zara", "Duma", "Tala", "Kamau", "Imani",
+      "Bakari", "Zola", "Omari", "Nyah", "Mosi", "Amara", "Hassan", "Marjani", "Ayo", "Bintou",
+      "Jengo", "Kioni", "Ebo", "Siti", "Kato", "Amari", "Sefu", "Adia", "Mandisa", "Femi",
+      "Mwangi", "Sika", "Kofi", "Zuwena", "Sekou", "Tisha", "Said", "Nandi", "Elimu", "Winda",
+      "Idrissa", "Chiamaka", "Khamisi", "Kamaria", "Eshe", "Zuberi", "Faraji", "Taji", "Kwasi", "Jina",
+      "Obasi", "Hasina", "Penda", "Abena", "Jahi", "Sanaa", "Mirembe", "Azizi", "Jendayi", "Ngozi",
+      "Masika", "Hadiya", "Okello", "Asha", "Kwani", "Nia", "Chipo", "Mandela", "Nuru", "Kesi",
+      "Mojuba", "Shani", "Ifama", "Chinara", "Abeni", "Zina", "Zawadi", "Hawa", "Mwana", "Ndidi",
+      "Obina", "Emani", "Sanura", "Halima", "Tinashe", "Mara", "Fumo", "Chikondi", "Idris", "Thandi",
+      "Rukiya", "Fadil", "Lela", "Thando", "Azara", "Jabari", "Mirembe", "Adebayo", "Olamide", "Barika",
+      "Kesi", "Mwinyi", "Chuma", "Nuru", "Zola", "Wasiu", "Omolara", "Shani", "Dayo", "Akilah",
+      "Chione", "Femi", "Kwame", "Hasina", "Nia", "Jengo", "Thandi", "Amari", "Mwangi", "Mandisa",
+      "Mosi", "Fahad", "Nyah", "Kwesi", "Imani", "Baba", "Amina", "Dakarai", "Zahara", "Tariq",
+      "Akanni", "Ayo", "Lela", "Kato", "Sekou", "Duma", "Ebo", "Obi", "Nandi", "Abeni"
+    ],
+    "last_names": [
+      "Adebayo", "Balogun", "Abdullah", "Okoye", "Ayodele", "Njenga", "Odinga", "Kariuki", "Kimani", "Kagiso",
+      "Thwala", "Malik", "Mwangi", "Chilufya", "Onyango", "Mutiso", "Adu", "Mabaso", "Ndubisi", "Tshabalala",
+      "Obi", "Ngugi", "Fahad", "Wanjiku", "Kamau", "Zuma", "Amadi", "Lukwago", "Banda", "Nkosi",
+      "Hadebe", "Nyong'o", "Mbatha", "Sambo", "Mandela", "Ochieng", "Babajide", "Toure", "Aboah", "Okafor",
+      "Esang", "Maseko", "Okonkwo", "Siyabonga", "Oluwaseyi", "Ncube", "Gumbo", "Katlego", "Ndiaye", "Mbokazi",
+      "Zola", "Ouma", "Mofokeng", "Chuma", "Sithole", "Ekene", "Mwanza", "Biko", "Dlamini", "Nwosu",
+      "Emeka", "Kambule", "Jaja", "Afolabi", "Omotayo", "Chinyere", "Mashaba", "Adisa", "Onuoha", "Njeri",
+      "Osei", "Sambo", "Femi", "Zondi", "Mugabe", "Yakubu", "Njenga", "Tutu", "Ndaba", "Biko",
+      "Olumide", "Moyo", "Sande", "Maponya", "Bongani", "Achieng", "Kwabena", "Adanna", "Fela", "Odum",
+      "Sefu", "Kalua", "Langa", "Orji", "Ndlovu", "Eshe", "Thabo", "Mutombo", "Abiodun", "Tembo",
+      "Kagiso", "Kimathi", "Onyeka", "Adeyemi", "Odera", "Babajide", "Nwabueze", "Oluwasegun", "Esosa", "Chikezie",
+      "Chidi", "Obafemi", "Dube", "Nnaji", "Owolabi", "Yeboah", "Ekechukwu", "Olaniyan", "Mkhize", "Ofili",
+      "Olaoluwa", "Tshibanda", "Kgositsile", "Sowande", "Kintu", "Nyathi", "Dlamini", "Fakude", "Akintola", "Ige",
+      "Bandele", "Ajayi", "Omotosho", "Wambui", "Madaki", "Onyedikachi", "Makoni", "Oluremi", "Kambale", "Amamoo"
     ]
   }
 }
