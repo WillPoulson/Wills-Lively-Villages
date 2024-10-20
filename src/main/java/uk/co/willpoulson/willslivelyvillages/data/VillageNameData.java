@@ -33,7 +33,6 @@ public class VillageNameData extends PersistentState {
         return villageNames.getOrDefault(villageStartChunkPos, null);
     }
 
-    // Implement the correct writeNbt method (no WrapperLookup needed)
     @Override
     public NbtCompound writeNbt(NbtCompound nbt, RegistryWrapper.WrapperLookup registryLookup) {
         NbtList villageList = new NbtList();

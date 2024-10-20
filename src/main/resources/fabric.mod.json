@@ -19,6 +19,9 @@
 			"uk.co.willpoulson.willslivelyvillages.WillsLivelyVillages"
 		]
 	},
+	"mixins": [
+		"wills-lively-villages.mixins.json"
+	],
 	"depends": {
 		"fabricloader": ">=0.16.7",
 		"minecraft": "~1.21.1",

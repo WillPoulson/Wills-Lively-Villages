@@ -17,8 +17,10 @@ public class WillsLivelyVillages implements ModInitializer {
 	public void onInitialize() {
 		VillagerNameManager.loadVillagerNames();
 		VillageNameManager.loadVillageNames();
+
 		VillagerEventsListener.listenForVillagerSpawns();
 		PlayerEventsListener.listenForPlayerEnterVillage();
+
 		LOGGER.info("Will's: Lively Villages Initialised");
 	}
 }
