@@ -75,7 +75,7 @@ public class VillageNameManager {
     }
 
     private static RegistryKey<Biome> getChunkBiome(Chunk chunk, ServerWorld world) {
-        BlockPos chunkCenter = chunk.getPos().getCenterAtY(chunk.getTopY());
+        BlockPos chunkCenter = chunk.getPos().getCenterAtY(255);
         return world.getBiome(chunkCenter).getKey().orElse(BiomeKeys.PLAINS);
     }
 
