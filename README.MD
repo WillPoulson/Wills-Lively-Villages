@@ -1,6 +1,6 @@
 ![Banner Image](https://cdn.modrinth.com/data/cached_images/9f057b66e000dfd6aa22621857512bf0f90df90d.png)
 
-**Will's Lively Villages** is a mod for Minecraft 1.21.2 that breathes life into Minecraft villages by adding unique villager names, immersive village naming, and increased protection for the golems who live within them.
+**Will's Lively Villages** is a mod for Minecraft 1.21.6 that breathes life into Minecraft villages by adding unique villager names, immersive village naming, and increased protection for the golems who live within them.
 
 ## Features
 
